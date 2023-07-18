@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+The Uppercut: Welcome to my sports blog!
 ---
 
