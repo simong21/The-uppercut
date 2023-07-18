@@ -1,13 +1,13 @@
----
-title: "The-Uppercut"
-date: 2023-07-20
----
-A Quick Intro
+# The Uppercut
+## 20th July, 2023
+
+
+### A Quick Intro
 Hi! This is the first edition of The Uppercut, my new sports blog. Sports are my greatest passion, so to make up for my lack of athletic prowess, I have decided to write about them. My initial thoughts for this blog are that it will be something of a weekly newsletter, highlighting the biggest goings-on across the world of sport and providing my thoughts on the same. In time, I hope to build this into a more slick reading experience, but for now I want to focus on writing, so I hope you will forgive the barebones nature of this edition. Of course, any thoughts/comments are much appreciated! Anyway, on to the action…
 
 The summer of sport shows no signs of letting up, with the void left by Wimbledon being swiftly filled by the FIFA Women’s World Cup on Thursday. This week we’ll be looking at Ireland’s preparation for the enormous challenge of taking on hosts Australia in the opening game of the World Cup, some crunch games Down Under in the Rugby Championship, the latest updates from the football transfer market, and previewing the vital 4th Ashes test between England and Australia, which starts on Wednesday. But first, a look back at a titanic clash in South-West London.
 
-(No) Escape From Alcaraz 
+### (No) Escape From Alcaraz 
 Watching Carlos Alcaraz attempt to dethrone Novak Djokovic on Sunday afternoon on Centre Court, where the latter had not been defeated in 45 matches going back to 2013, it was easy to draw parallels with another famous final 15 years previously. On that occasion in 2008, it was another Spaniard, Rafa Nadal, attempting to knock off that era’s King of Grass, Roger Federer, and announce themselves to the world on tennis’ biggest stage. To say that the tennis played on Sunday was every bit the quality of that 2008 final is to pay both players the highest compliment.
 
 In their last meeting, at Roland Garros, Alcaraz had looked the part until succumbing to full body cramps induced by the pressure of facing the seemingly unbeatable, indefatigable Djokovic. In the first set, it looked as if history was to repeat itself as Djokovic eased to a 6-1 win to seize the initiative. As it turns out, it was; just not the way anyone expected. Alcaraz stabilised his game and began to push Djokovic around the court. After breaking Djokovic’s streak of 15 straight Grand Slam tiebreaks won, he went on to break the Serb’s serve in a mammoth 26 minute game at the beginning of the 3rd set, which he would also go on to take.
@@ -18,7 +18,7 @@ In 2008, Nadal’s victory over Federer heralded a new era in tennis, in which t
 
 One final word on the tennis goes to Ons Jabeur, the Tunisian magician who again fell at the final hurdle on Saturday against the imperious Marketa Vondrousova. I’m not sure there is a player on tour more well-liked than Jabeur, but the mental side of her game has stopped her from achieving her full potential as of yet. At 28, she still has time to scale the heights her talent deserves, but with each passing Slam the weight will only grow. Here’s hoping she can get the job done in New York.
 
-Sydney Scaries
+### Sydney Scaries
 If the tennis saw history repeating itself with a fantastic final and promising future, Ireland’s chaotic build-up to this summer’s Women’s World Cup in Australia/New Zealand has also drawn parallels, albeit of a far less promising variety, with the last time an Irish football team was preparing for a tournament of magnitude.
 
 21 years ago, the Irish team led by Manchester United captain Roy Keane flew to Saipan to prepare for the World Cup, with real hopes of going further than any Irish team ever had before. Days before the tournament, Keane had a falling out with manager Mick McCarthy and returned to Ireland. The Irish team, without their talisman, would lose to Spain in penalties in the round of 16. What could have been.
@@ -29,45 +29,46 @@ O’Sullivan’s injury would have been a bitter pill to swallow had she been ru
 
 On a more hopeful note, I am very excited to see Ireland competing at a major tournament again, and especially so knowing these girls have a real shot at pulling off an upset or two. While the usual favourites USA, England and France are all likely to prove too strong, a trip to the knockout stages is not beyond the realms of possibility and that is not something we get to dream about much in Ireland. COYGIG!
 
-The Price is Rice
-Staying with football, teams around the Premier League continue to wheel and deal in their attempts to hunt down treble-winning Manchester City. Over the weekend, last season’s runners-up Arsenal secured the services of Declan Rice(formerly of Ireland u20s fame) for a club-record £105m. (105 million for rice? I know food prices are high but that’s extortionate. Apologies).Rice joins Kai Havertz and Jurrien Timber as the players charged with helping the North London team close the gap to the top.
+### The Price is Rice
+Staying with football, teams around the Premier League continue to wheel and deal in their attempts to hunt down treble-winning Manchester City. Over the weekend, last season’s runners-up Arsenal secured the services of Declan Rice(formerly of Ireland u20s fame) for a club-record £105m. *(105 million for rice? I know food prices are high but that’s extortionate. Apologies)*.Rice joins Kai Havertz and Jurrien Timber as the players charged with helping the North London team close the gap to the top.
 
 With Arsenal’s recent burst of spending(over £600m spent since Mikel Arteta took charge in 2019), many are wondering if another trophy-less season would represent a disappointment for the Gunners. I tend to disagree. Last year represented a true return to relevance for the famous club following a forgettable decade(the odd FA Cup triumph aside), and I think Arsenal’s goal this season will be to consolidate that position even as teams like Chelsea and Liverpool, both of whom had down seasons by their standards, reload and focus on returning to the top 4. In other words, a successful season would be proving the 2022/23 season was not a fluke. Realistically, Manchester City will remain head and shoulders above the rest of the league, and will also stand in the way of Arsenal attempting to become the second London club to win the coveted Champions League.
 
 Further north, Manchester United replaced their long-term, gaffe-prone goalkeeper David de Gea for Andre Onana, paying £47.2m for the Cameroonian. De Gea’s departure will leave United fans with mixed emotions. For a period in the mid-2010s, De Gea could very reasonably have been declared the best goalkeeper in the world. However, in recent years, De Gea gained a reputation for being unable to play with the ball at his feet(thus hampering his teams’ ability to play from the back), and making back-breaking errors on seemingly routine saves. This was no more evident than in this season’s Europa League, where De Gea’s errors were almost directly responsible for United’s exit in the quarter finals. Time will tell whether Onana’s signing, along with Mason Mount, will see them take a step forward in Erik Ten Hag’s second season.
 
-Eddie, Are You OK?
+### Eddie, Are You OK?
 Eddie Jones’ second stint as head coach of the Australian team has gotten off to a less-than-ideal start. On Saturday, Jones’ team was outclassed by Argentina despite only falling to a last-minute try from the Pumas. In truth, the score line flattered the Wallabies, as the breadth of the challenge facing the veteran coach in turning around his native country’s fortunes was laid bare in front of a home crowd. The week previously, Jones had complained of disrespect as South Africa named a weakened side to face them in the opening round of the Rugby Championship, only to be left ashen-faced as the Springboks ran riot, winning 43-12. After their 34-31 defeat this weekend, Jones will be hoping his men can keep the score line respectable as they take on a rejuvenated New Zealand next time around.
 
 No one would have been happier at the weekend’s result than Michael Cheika, Jones’ compatriot and a former Wallabies head coach himself. Now in charge of the Pumas, Cheika has taken their game to another level, despite a chastening defeat to the All Blacks last weekend. Having beaten the All Blacks away from home last year, Argentina will go in to the World Cup as dark horses very capable of causing an upset, especially having been drawn in the easier half of the draw.
 
 In Auckland, New Zealand showed that reports of their demise had been greatly exaggerated, as they ran out 35-20 winners over World Cup holders South Africa. Their pace of play proved too much for the Springboks to handle, and their accuracy at the breakdown will cause other nations to sit up and take notice. It must be noted, South Africa appear to be showing the signs of fatigue expected from such a long season, which also involved multiple long-haul flights to Europe to compete in the URC and Champions Cup. No doubt the break between the Rugby Championship and World Cup will do them the world of good, but toll of so much rugby and travel could be a defining factor when the tournament reaches its latter stages.
 
-From The Ashes
+### From The Ashes
 The English cricket team will be looking to even the 2023 Ashes Series against Australia when the highly-anticipated 4th test begins at Old Trafford on Wednesday. Going into the series, there was high expectations that England could wrest back the Ashes title form the Aussies, despite the men from Down Under recently being crowned World Test Series Champions. Under captain Ben Stokes, England have been playing a high-risk, high-reward form of cricket(fondly referred to as ‘Bazball’), in which they bat aggressively and, when in the field, chase wickets relentlessly despite the possibility of giving up huge run totals.
 
 In the first two tests, the strategy backfired terribly, as England were plagued by mental errors which gifted the calm Aussies a 2-0 series lead. However, towards the end of the second test, Australia unintentionally breathed fire into their opposition and their vocal fans. As England attempted to chase Australia’s run total in the final innings, England batsman Jonny Bairstow incorrectly judged there to be a break in play, and began to stray away from his wicket. Australia took full advantage, knocking the bails off his stumps, rendering Bairstow ‘out’. Despite them being fully within their rights to do so, England erupted in outrage, claiming the Aussies had violated the ‘spirit of the game’. Captain Stokes proceeded to produce one of the great batting performances in a thrilling display which very nearly saw England snatch victory from the jaws of defeat.
 
 Despite the loss, England would carry the passion and fury into the 3rd test, while also being able to call on the services of Mark Wood, a player capable of bowling at 90+ miles per hour who had been injured for the first two tests. In a pulsating encounter, England wobbled but eventually stood tall to ensure the 4th test would not be a dead rubber. Instead, when the teams take the field in Manchester, it will be all to play for. With England recalling their all-time leader in wickets taken, James Anderson, they will be going in all guns blazing. Whether this will work for or against them, we will have to wait and see. If there’s anything we know so far from this series, it’s that anything can, and probably will, happen.
 
-In Case You Missed It…
+### In Case You Missed It…
 And finally, rounding up some other stories from the world of sport:
 
-McIlroy With Open Momentum
+#### McIlroy With Open Momentum
 Rory McIlroy produced stunning back-to-back birdies on Sunday to claim victory at the Scottish Open, the perfect warm-up as attention turns to the Open Championship this weekend. This year’s event will take place at Royal Liverpool, the site where McIlroy claimed his only Open win 9 years ago. As always, McIlroy’s toughest opponent will be himself, but with his game in a good place and off the back of a morale-boosting win, this could be the tournament where McIlroy finally returns to Major-winning ways.
 
-A Mouth-Watering Clash at Croker
+#### A Mouth-Watering Clash at Croker
 The Dublin football team navigated the tricky challenge posed by Monaghan on Saturday, before Kerry defeated Derry in an epic encounter on Sunday to set up a huge clash in the All-Ireland football final. Kerry, last year’s winners, will be aiming for their record 39th All-Ireland title when the two sides meet on Sunday, 30th July. Dublin, for their part, hold the second-most All-Ireland wins with 30 and will be desperate to avenge their defeat in last year’s semi-final.
 
-Ricciardo’s Return
+#### Ricciardo’s Return
 Daniel Ricciardo is returning to the Formula 1 grid after spending half the season on the sidelines, having lost his seat at McLaren after a string of poor seasons where he was outperformed by younger teammate Lando Norris. In this case, it is Nick de Vries’ awful form that sees Ricciardo secure a seat with AlphaTauri for the rest of the season. The popular Aussie will hope to use the chance as an audition for a full-time seat in next year’s championship, however I am not convinced he will be able to reach his goal of replacing Sergio Perez at championship leaders Red Bull. Perhaps it was McLaren’s car that did not suit him, but I would have thought a driver of Ricciardo’s quality would be able to extract more from the car. I hope I’m wrong!
 
-A Costly Selfie
-A spectator at the Tour de France managed to cause a 20-rider pile up as they attempted to take a selfie. Thankfully, no riders were seriously injured but it is crazy to think a spectator could influence such a prestigious event through sheer stupidity. Of course, this is not the first time something like this has happened. In 2021, another spectator caused a massive pile up when her homemade sign hit a rider, resulting in one competitor breaking both his arms. Best stay off the road…
+#### A Costly Selfie
+A spectator at the Tour de France managed to cause a 20-rider pile up as they attempted to take a selfie. Thankfully, no riders were seriously injured but it is crazy to think a spectator could influence such a prestigious event through sheer stupidity. Of course, this is not the first time something like this has happened. In 2021, another spectator caused a massive pile up when her homemade sign hit a rider, resulting in one competitor breaking both his arms. Best stay off the road…  
 
-Lastly, I’ll leave you with a limerick. Thanks for reading!
-Eddie’s seats getting hot
-While Novak goes off in a snot
-But Denise is okay
-We’ll be singing Olé
-Is this McIlroy’s best shot?
+Lastly, I’ll leave you with a limerick. Thanks for reading, see you next week!
+
+*Eddie’s seats getting hot*  
+*While Novak goes off in a snot*  
+*But Denise is okay*  
+*We’ll be singing Olé*  
+*Is this McIlroy’s best shot?*  
