@@ -1,5 +1,5 @@
 # The Uppercut
-## 20th July, 2023
+## 19th July, 2023
 
 
 ### A Quick Intro
