@@ -1,7 +1,3 @@
-# The Uppercut
-## 19th July, 2023
-
-
 ### A Quick Intro
 Hi! This is the first edition of The Uppercut, my new sports blog. Sports are my greatest passion, so to make up for my lack of athletic prowess, I have decided to write about them. My initial thoughts for this blog are that it will be something of a weekly newsletter, highlighting the biggest goings-on across the world of sport and providing my thoughts on the same. In time, I hope to build this into a more slick reading experience, but for now I want to focus on writing, so I hope you will forgive the barebones nature of this edition. Of course, any thoughts/comments are much appreciated! Anyway, on to the action…
 
