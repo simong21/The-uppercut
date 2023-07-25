@@ -1,4 +1,7 @@
-# The Uppercut - Ireland Debut On The World Stage
+---
+layout: post
+title:  "The Uppercut-Ireland Make Their ?Debut on the World Stage"
+---
 
 Hi folks, welcome back to The Uppercut, where I’ll be reviewing and analysing the biggest stories across the world of sport(with a hint of Irish emphasis). This week saw no let up in the Summer of Sport, as the stars of the golfing world descended on North-East England for the year’s final major, England looked to level the Ashes series, Hungary hosted the last Grand Prix before F1’s mid-season break, and Limerick went in search of a historic 4-in-a-row. But first, a look back at Ireland’s first World Cup match since 2002.
 
