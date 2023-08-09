@@ -14,16 +14,7 @@ The month is August(despite how the weather feels), and that can only mean one t
 
 For some teams, anything other than a top-4 finish will represent a failed season; for others, simply staying in the top tier will be a monumental success. As they jostle for position, drama will be assured both on and off the pitch. Last season saw a record 14 managers fired in-season, and while this season may not see quite the same level of turnover, a few poor results early-on will leave a few coaches feeling the heat. It will also be interesting to see how some newcomers to European football like Newcastle(at least in recent times) and Aston Villa adapt to the heavier schedule, where squad depth becomes vital. And it’s easy to forget that the transfer window is not yet closed, and there will be teams who will continue to improve their squad right up to the September 1st deadline. Without further waffling, below is a team-by-team preview, complete with predicted finishes, players to watch and more. Let the games begin!
 
-### Bourne Again
-Bournemouth endured a tumultuous return to the Premier League last season following a two-year hiatus, firing manager Scott Parker after just 4 games during which Parker described the squad as ‘ill-equipped’ to compete in the top tier. Interim manager Gary O’ Neill was tasked with proving his predecessor wrong, which he did with aplomb in guiding the Cherries to an unlikely 15th place finish, securing Premier League football for this season. However, in a perfect example of the cut-throat nature of elite football, O’Neil was promptly sacked at the conclusion of the season, with ownership bringing in Spaniard Antoni Iraola, who most recently managed Rayo Vallecano in La Liga. Iraola will bring an exciting style of play, but won’t be given a long bedding-inn period with the owners having dropped £80m in the transfer window this Summer.
-
-#### Player to Watch: Justin Kluivert
-Bournemouth will be looking to their new signing to provide a much-needed attacking threat this season, having managed only 37 goals in the last campaign, the 4th-lowest in the league. Dutch winger Kluivert joined from AS Roma for a fee of £10.25m, but spent last season on loan at Valencia where he managed 6 goals in 26 appearances. Hardworking and packing plenty of speed, the 24-year old will be hoping for a fast start to life in the Premier League.
-
-#### Predicted Finish: 15th
-Success for Bournemouth will come in the form of survival, and I expect the introduction of Iraola to help achieve just that. It won’t be comfortable, but I expect a renewed focus on attack to bring the goals required to stay up.
-
-### Gunning for Glory
+### Gunning for Glory - Arsenal
 Arsenal made their long-overdue return to relevance in 2022/23, finishing 2nd and playing some scintillating football along the way. With former player-turned-manager Mikel Arteta at the helm, Arsenal’s youthful squad for long stretches threatened to pull off the most unlikely league triumph since Leicester in 2016. In the end, they could not quite match Manchester City’s depth and relentlessness, but qualification for the Champions League for the first time since 2016/17, and their highest ever goal tally in a Premier League season, was better than many fans could have hoped for going into the season. They will now have to deal with the expectation that comes with that success, and this will perhaps be Arteta’s greatest challenge this year. Their fans’ excitement will only have been bolstered by their summer signings, most notably Declan Rice and Kai Havertz, who should both slot into the starting XI. Rice will have the challenge of not only adapting to new surroundings(albeit in the same city), but of replacing club legend Granit Xhaka, who said goodbye to the Emirates faithful after 7 years of service.
 
 #### Player to Watch: Martin Odegaard
@@ -32,7 +23,7 @@ Norwegian midfielder and Arsenal captain Martin Odegaard produced arguably his b
 #### Predicted Finish: 3rd
 I believe Arsenal will be a force to be reckoned with for years to come, and won’t struggle with the increased expectation this season. However, I don’t see them catching up to Manchester City, and with rivals reloading, I think they will have to be satisfied with another top-4 finish.
 
-### Villainous Vibes
+### Villainous Vibes - Aston Villa
 Aston Villa are coming off a surprisingly successful campaign in which they had high hopes going in, only to fire manager Steven Gerrard after 2 wins in their opening 12 games, before former Arsenal manager Unai Emery steered them to a remarkable 7th-place finish and a place in the UEFA Conference League. Already a stubborn team to play against, Villa have improved their squad with funds left over from the £100m Jack Grealish transfer a few seasons ago, bringing in the exciting Moussa Diaby from Bayer Leverkusen and an Unai Emery favourite, Pau Torres, from Villarreal.
 
 #### Player to Watch: Tyrone Mings
@@ -41,7 +32,16 @@ Once on the verge of starting for England, centre-back Mings’ form plummeted u
 #### Predicted Finish: 10th
 Last year, Villa took advantage of some struggling big-hitters to sneak into 7th-place. With those teams unlikely to struggle two years in a row, and the new challenge of competing in Europe, I see a slight regression from this Villa team, although I expect them to take points off some of their higher-profile competitors.
 
-### Busy Bees
+### Bourne Again - A.F.C. Bournemouth
+Bournemouth endured a tumultuous return to the Premier League last season following a two-year hiatus, firing manager Scott Parker after just 4 games during which Parker described the squad as ‘ill-equipped’ to compete in the top tier. Interim manager Gary O’ Neill was tasked with proving his predecessor wrong, which he did with aplomb in guiding the Cherries to an unlikely 15th place finish, securing Premier League football for this season. However, in a perfect example of the cut-throat nature of elite football, O’Neil was promptly sacked at the conclusion of the season, with ownership bringing in Spaniard Antoni Iraola, who most recently managed Rayo Vallecano in La Liga. Iraola will bring an exciting style of play, but won’t be given a long bedding-inn period with the owners having dropped £80m in the transfer window this Summer.
+
+#### Player to Watch: Justin Kluivert
+Bournemouth will be looking to their new signing to provide a much-needed attacking threat this season, having managed only 37 goals in the last campaign, the 4th-lowest in the league. Dutch winger Kluivert joined from AS Roma for a fee of £10.25m, but spent last season on loan at Valencia where he managed 6 goals in 26 appearances. Hardworking and packing plenty of speed, the 24-year old will be hoping for a fast start to life in the Premier League.
+
+#### Predicted Finish: 15th
+Success for Bournemouth will come in the form of survival, and I expect the introduction of Iraola to help achieve just that. It won’t be comfortable, but I expect a renewed focus on attack to bring the goals required to stay up.
+
+### Busy Bees - Brentford
 Since making their Premier League debut 2 years ago in a 2-0 win over Arsenal, Brentford have been one of the Premier League’s biggest success stories. Finishing 13th in their 1st season, Brentford continued to improve and secured a top-10 finish last year, unearthing genuine gems in Bryan Mbuemo and Ivan Toney. However, Toney’s gambling problems will see him miss the full first half of the season, and coach Thomas Frank will face an uphill battle in scaling the same heights as last season when they scored 58 goals, tying Manchester United for 7th-most in the league.
 
 #### Player to Watch: Nathan Collins
@@ -50,7 +50,7 @@ This summer, Brentford broke their transfer record to secure the services of Rep
 #### Predicted Finish: 12th
 Brentford will certainly miss Toney’s goal scoring ability, and could be near the relegation zone by the time he returns in January. However, I back Frank’s managerial abilities, and the return of Toney mid-season could make them a team no one wants to play come the latter half of the season.
 
-### DeZerbi-ng of Praise
+### DeZerbi-ng of Praise - Brighton & Hove Albion
 Brighton were perhaps the biggest surprise of last season, finishing a club-high 6th in their 6th season of Premier League football. After losing manager Graham Potter and his entire back room staff to Chelsea early in the season, few thought Brighton could recover. In fact, under Roberto De Zerbi, they went to new heights, as De Zerbi built on Potter’s strong foundations and added a clinical attacking threat to their game. Fuelled by young talent, Brighton have been the envy of other clubs whip have marvelled at their ability to uncover talent. Led by the likes of Moises Caicedo, Kaoru Mitoma and Ireland’s own Evan Ferguson, Brighton will look to solidify their place among England’s elite, and have the squad to make waves in the Europa League, despite some high-profile talents departing for wealthier clubs.
 
 #### Player to Watch: Julio Enciso
@@ -59,7 +59,7 @@ There could have been any number of players in this section, including young Eva
 #### Predicted Finish: 7th
 Brighton are one of the teams I am most excited to watch this season, and I do not believe last year was a fluke. There is a chance they will lose Caicedo to Chelsea before the transfer window closes, and competing in the Europa League will be a challenge. However, I back them to easily secure a top-10 finish and put the squeeze on the supposed ‘bigger’ teams.
 
-### In Good Kompany
+### In Good Kompany - Burnley
 Championship winners Burnley returned to the Premier League at their first time of asking, led by former Manchester City defender Vincent Kompany. Kompany’s defensive mindset is synonymous with what we have come to expect out of Burnley through the years, where goals are hard to come by at either ends of the field. I don’t think any Premier League team will be happy to see Turf Moor back on the schedule, and only 3 defeats in 46 Championship games last season show how tough it will be to break down this team. Knowing they will have to score goals to stay up, Burnley have brought in several attacking-minded players this summer, most notably Turkish striker Zerbi Amdouni, who Clarets fans will be hoping gets off to a quick start.
 
 #### Player to Watch: Wout Weghorst
@@ -68,7 +68,7 @@ The large Dutch forward returns from a less-than-successful loan stint at Manche
 #### Predicted Finish: 20th
 Unfortunately for Burnley, I believe they may be back in the Championship far sooner than they would have liked. Defensive football is not a winner in today’s Premier League, and I don’t feel they have done enough in this transfer window to build a squad capable of competing at this level. Turf Moor will remain a difficult place to play, but without Sean Dyche’s magic of years past, it may be a one-and-done year for the Clarets.
 
-### Every Cloud Has a Silva Lining
+### Every Cloud Has a Silva Lining - Chelsea
 Chelsea are coming off their most dismal campaign in recent memory, finishing 12th and playing unwatchable football for the majority of the year. After Roman Abramovich was forced to sell the club, there was always going to be upheaval and instability, but few could have predicted the extent of the decline in the first 12 months of new ownership. Despite winning the Champions League in 2021, coach Thomas Tuchel was sacked early in the season after some mediocre results. As it turned out, those results would be the high-point of the season as excessive spending did not translate to the pitch, with Tuchel’s replacement Graham Potter not making it to the end of the season. By the time Frank Lampard took over, the team had given up and the season was lost. But a new league year brings fresh hope, and Mauricio Pochettino has so-far looked a shrewd hire. Chelsea have also jettisoned a lot of dead weight from their bloated squad, and will hope their abundance of youthful talent will be able to turn their potential into reality.
 
 #### Player to Watch: Nicolas Jackson
@@ -78,7 +78,7 @@ Chelsea were allergic to goals last season, averaging 1 goal per game for their 
 I expect Chelsea to improve on last season(I can’t see how they could stoop lower) and really show signs of growth. Pochettino is an experienced manager with an exciting style, and I believe he will have a positive influence on the young players’ development. However, this will be a multi-year rebuild, and I think a top-4 finish is still outside of their grasp. More goals, and closing the gap to the top, will represent a successful season for the Chels.
 
 
-### The Eagles Are Coming
+### The Eagles Are Coming - Crystal Palace
 In one of the more remarkable storylines of this new Premier League season, 76-year old Roy Hodgson returns to the sidelines as full-time manager of Crystal Palace, having taken charge on an interim basis following the sacking of Patrick Vieira in mid-March. With 5 wins from their last 8 games, the Eagles secured an unlikely 11th-place finish, and will be hoping their manager’s, ahem, experience, can see them go even better this season. They are backing their young squad to improve having not been overly active in the transfer market, and have moved on from their long-time talisman Wilfred Zaha, who left on a free transfer to Galatasaray. If things fall right for Palace, they could push for a top-10 finish and even lower-level European football. However, there is a chance they may be left ruing their decision to not greatly improve their squad.
 
 #### Player to Watch: Eberechi Eze
@@ -87,7 +87,7 @@ In one of the more remarkable storylines of this new Premier League season, 76-y
 #### Predicted Finish: 9th
 Crystal Palace have an exciting young squad, and will be led by the electric Michael Olise assuming a potential move to Manchester City doesn’t happen. With Hodgson’s know-how, I see this team sneaking into a top-10 finish.
 
-### Sticky Toffees
+### Sticky Toffees - Everton
 After two seasons where they have stayed in the top tier of English football by the skin of their teeth, Everton will be hoping for a less-stressful end to the season come next May. With Sean Dyche at the helm, I expect we will see pragmatic, if not the most beautiful, football as they look to stem the tide of dissatisfaction from the club faithful. Given a full pre-season, Dyche should be able to make more of an impression on the club having only taken over from Frank Lampard at the midpoint of the season, but they have done little to try to keep pace with the rest of the league, veteran Ashley Young the most notable newcomer. 
 
 #### Player to Watch: Dominic Calvert-Lewin
@@ -96,7 +96,7 @@ Having not splashed the cash in the transfer market, Everton will be relying on 
 #### Predicted Finish: 14th
 Looking at Everton’s squad, there is a very real chance they will be playing in the Championship next season. However, there are few managers more capable of grinding out important results than Sean Dyche, and there will be pressure from the fans to bounce back and show they belong in the Premier League. I back them to find the results when it matters to stay up.
 
-### Craven Ambition
+### Craven Ambition - Fulham
 Fulham were another of 2022/23’s surprise packages, as they turned promotion to the Premier League into a 10th-place finish. Having been immediately relegated following their last 2 promotions, last season was a major relief for fans who have seen Fulham bounce between leagues for a number of seasons having once been a mainstay in the top tier. Manager Marco Silva has done a great job in reviving the fortunes of the West London club, but will face an uphill battle to repeat the feat with star striker Aleksandar Mitrovic reportedly trying to push through a move to Saudi Arabia. Mitrovic contributed a vital 14 goals last season, and losing a player of his calibre would be a difficult pill to swallow for the Cottagers.
 
 #### Player to Watch: Raul Jimenez
@@ -105,7 +105,7 @@ If Mitrovic does in fact leave, or is not fully bought-in, it will be up to new 
 #### Predicted Finish: 13th
 In my opinion, last year’s top-10 finish was something of an anomaly, and I expect them to slip back a little this year. With the uncertainty around Mitrovic and ageing veteran Willian, Fulham may struggle for goals, but I don’t see them slipping back to the Championship just yet.
 
-### Showing no Mersey
+### Showing no Mersey - Liverpool
 Liverpool will be looking to build off a strong finish to last year’s campaign after struggling for much of it, eventually finishing 5th, just outside the Champions League places. Having been Manchester City’s closest rivals for the previous 5 years, it looked as if Klopp’s side had run out of steam, but a late season push showed they have plenty more to give. Playing a high-tempo, attacking style, Liverpool can be a joy to watch when in full flow, and they are armed with some of the best attacking talent on the planet despite the departures of Roberto Firmino and Sadie Mane in recent times. With Luis Diaz returning from injury and the ever-brilliant Mo Salah, this team are very capable of scoring goals. If they have any weaknesses, it is in the midfield, where the losses of club leaders Fabinho and Jordan Henderson to the Saudi Pro League have not been sufficiently offset. Still, if Klopp’s ‘mentality monsters’ get on a roll, the rest of the league should be on high alert.
 
 #### Player to Watch: Darwin Nunez
@@ -114,7 +114,7 @@ When Nunez signed last year in a deal worth up to £85m, many thought he could b
 #### Predicted Finish: 2nd
 I am expecting Liverpool to bounce back in a big way this year. They still have the guts of the squad that threatened to win the quadruple two seasons ago, and have added serious talent in attacking midfielders Dominik Szoboszlai and World Cup-winner Alexis McAllister. Ultimately, they will be Manchester City’s closest rivals, but wont quite be able to topple them.
 
-### Not Just an Airport
+### Not Just an Airport - Luton Town
 10 years ago, Luton Town were in the National League, the lowest professional tier in English football. At Wembley in May, they completed their meteoric rise by winning the Championship play-off, earning their seat at the top table. The scale of their unlikely success is no more evident than when looking at their home ground, Kenilworth Road. With a capacity of 10,356, it is the smallest ground in the Premier League by a country mile, and many a meme has featured their Oak Road End entrance, which is located in the middle of a row of houses(I highly recommend looking it up if you haven’t seen it). Survival will be a huge success for this club, regardless of how it comes, and one would imagine they will struggle against the financial might of the other teams. However, this is a battle-hardened team capable of winning ugly, and if some early results go their way, they will only grow in confidence and belief that they belong.
 
 #### Player to Watch: Pelly Ruddock Mpanzu
@@ -123,7 +123,7 @@ Mpanzu has one of the most fascinating journeys of any player in the league, hav
 #### Predicted Finish: 17th
 This may be a heart-over-head pick, but I believe Luton can pull off a miracle and just about avoid relegation. Kenilworth Road will be hopping for every home match, and there will be no team playing with more hunger than Luton.  I think there are just enough struggling competitors to keep Luton up this year.
 
-### Treble in Paradise
+### Treble in Paradise - Manchester City
 There is not much to say about Manchester City than has been said elsewhere. Pep Guardiola’s blue machine rolls on, fresh off a first ever Champions League win and with it, the coveted treble to match that of their Manchester rivals from 1999. Under Pep, probably the greatest manager of this era, City have claimed 5 of the last 6 league titles on offer, and it would take a brave man to bet against them making it 6 in the last 7. With world class players across the breadth of the squad, the Citizens were able to say goodbye to two club stalwarts in Riyad Mahrez and Ilkay Gundogan without much fuss, and their defence will be bolstered by the signing of Croat Josko Gvardiol, one of the standout players from last year’s World Cup, for a fee of £78m. Perhaps the only hope for other teams is that the Premier League comes down hard on the champions, who have been accused of committing around 100 breaches of financial fair play rules. Time will tell.
 
 #### Player to Watch: Erling Haaland
@@ -132,7 +132,7 @@ Some will say this is a cop out, but in a team full of stars, I am excited to se
 #### Predicted Finish: 1st
 Easy one here. Anyone disagree?
 
-### The Devils You Know
+### The Devils You Know - Manchester United
 Manchester United enter the season as one of the more intriguing teams in the league. At times last season, they looked as good as any team, but at others they suffered from the same concentration lapses that have plagued them since Sir Alex Ferguson departed 10 years ago. United are on to their 6th different manager since then, with Erik Ten Hag enjoying a moderately successful first season in charge as the Red Devils won the Carabao Cup. For a restless fan base however, this won’t be enough to keep them happy for long, especially as they see the growing trophy cabinet across the city. Always one of the biggest spending clubs, another storyline to keep an eye on is the potential sale of the club to new ownership, with Qatar among the potential suitors. If a deal were to be done mid-season, it would be interesting if there would be any disruption to the on-field performances. Not that United need the extra money, as their summer transfers can attest to. Mason Mount, Andre Onana and Rasmus Hojlund are all big-money signings(£165m total for the 3) who will be expected to hit the ground running immediately if they are to keep pace with their rivals.
 
 #### Player to Watch: Mason Mount
@@ -141,7 +141,7 @@ One of United’s marquee signings this summer, the former Chelsea man comes in 
 #### Predicted Finish: 4th
 This is a talented team, and with a year in Ten Hag’s system, I think they will continue to improve this season, even if I see them dropping a place compared to last year. The gap between 1st and 4th last year was 18 points, but I could see that falling to about 12 or so. How they go in other competitions will determine how fans end up feeling about the season.
 
-### Having the Tyne of Their Lives
+### Having the Tyne of Their Lives - Newcastle United
 In their 2nd season under the ownership of the Saudi Arabia Public Investment Fund, Newcastle secured their highest Premier League finish in 20 years, coming 4th to announce to the rest of the league that they now belong at the top table. When the PIF takeover was completed, the spending binge predicted by many never quite materialised. Instead of a handful of big stars, Newcastle opted for some smart signings and greatly improved their depth. Unfortunately, under manager Eddie Howe, this side aren’t known for playing the most attractive football, and last year drew the ire of many rivals for their time-wasting exploits. It is hard to argue with results though, and a fan base neglected for years are rejoicing in their newfound success. With increased expectations and the added strain of competing in the Champions League, this season is sure to be an interesting chapter in the Newcastle project.
 
 #### Player to Watch: Alexander Isak
@@ -150,7 +150,7 @@ Newcastle broke their transfer record last summer to sign the now-23-year old Sw
 #### Predicted Finish: 5th
 While they were dominant at times last season, Newcastle also endured some down periods typical of a team learning to compete at the top. With some competitors likely to bounce back after down seasons, and the Magpies having to compete on multiple fronts, I am predicting a slight step back this year. But make no mistake, Newcastle are here to stay.
 
-### Deforestation?
+### Deforestation? - Nottingham Forest
 As one of only 6 English teams to have won the European Cup, it was great to see Nottingham Forest return to the Premier League last year after 23 seasons of lower-league football. Despite a minus-30 goal difference, they scraped together enough results to see them finish 16th, and retain their place in the top tier for the coming season. Having totally overhauled their squad last summer, Forest will be hoping that the first season of Premier League experience will stand to them as they look primed to once again be in a relegation battle. Manager Steve Cooper is great for getting the best out of his players, and one would expect he will require all of his tactical nous to keep Forest rooted in the Premier League.
 
 #### Player to Watch: Morgan Gibbs-White
@@ -159,7 +159,7 @@ As the most expensive of Forest’s substantial list of imports last summer, a l
 #### Predicted Finish: 19th
 While I like Steve Cooper as a manager, I just don’t see enough talent in this squad to obtain enough points for survival. They will be committed, but I can’t imagine them scoring enough goals to turn draws into wins, which is often the key difference between survival and relegation.
 
-### Blades of Glory
+### Blades of Glory - Sheffield United
 Sheffield United return to the Premier League for the first time since finishing last in the 2020/21 season, best remembered for its empty stadiums as Covid wreaked havoc. This time around, Bramall Lane will be rocking after a quality season in the Championship, finishing 2nd behind Burnley and knocking Tottenham out of the FA Cup. The owners’ faith in manager Paul Heckingbottom has paid off, having twice taken over as interim manager before finally taking the reigns for a full season for the first time last year. He hasn’t been helped by the Blades’ transfer window however, as Sheffield have been more seller than buyer. The loss of forward Iliman Ndiaye, and his 23 goal contributions, to Marseille will be keenly felt.
 
 #### Player to Watch: Ollie McBurnie
@@ -168,7 +168,7 @@ McBurnie was Sheffield United’s 2nd highest scorer last season behind Ndiaye, 
 #### Predicted Finish: 16th
 I just have a feeling that Sheffield United have learned some lessons from their last time in the Premier League, and aren’t here simply to make up the numbers. They will be a tricky assignment for any team, and will grind out enough results to just about survive.
 
-### White Heart Pain
+### White Heart Pain - Tottenham Hotspurs
 I can’t even begin to imagine what it must be like to be a Tottenham supporter. Every season, the hype train gets rolling and it seems like Spurs have figured it out. But year-on-year, their trophy cabinet only gathers more dust. There is something darkly comical about their seemingly pre-determined fate, so much so that before he departed the club, former manager Antonio Conte said ‘Tottenham’s story is this’ following a collapse against bottom-of-the-table Southampton last season. And so the North London club enter yet another season with little to look forward to other than another mid-table finish and a Golden Boot challenge from Harry Kane, as his potential move to Bayern Munich appears to be scuppered due to Spurs’ fee demands. Ange Postecoglou is the latest manager charged with turning the club’s fortunes around, having joined following a successful stint at Celtic. Maybe Postecoglou will be different, but a Tottenham trophy this season may take a miracle that would make even Jesus’ walk on water pale in comparison.
 
 #### Player to Watch: Heung-min Son
@@ -177,7 +177,7 @@ When Tottenham briefly threatened to break their trophy drought at the start of 
 #### Predicted Finish: 8th
 Unfortunately for Spurs, until they prove they are a changed side, I simply cannot back them to challenge for a top-4 place. Even with the shrewd signing of James Maddison, I expect them to struggle against stronger opponents. Here’s hoping for some more classic Spurs moments.
 
-### Dropping the Hammer
+### Dropping the Hammer - West Ham
 West Ham are coming off a strange season in which they narrowly avoided relegation in the league, while also emerging victorious from the UEFA Conference League, giving them their first ever European honours. A talented squad, it was hard to pinpoint exactly what caused West Ham’s struggles last season, but fans will be hoping that veteran manager David Moyes has the answers. The Hammers have also had a peculiar transfer window, where it seemed they had forgotten to sign any players such was their focus on getting a good price for Declan Rice. In the end, £105m was a handsome payout for their talisman, and they have used that money to add Harry Maguire and James Ward-Prowse, both solid Premier League players(Maguire’s gaffes aside). Going into this new season, Hammers fans will be licking their lips at the prospect of those two linking up at set-pieces, and will certainly be hoping last year was a blip, rather than a harbinger of doom.
 
 #### Player to Watch: Jarrod Bowen
@@ -186,7 +186,7 @@ Last season, with striker Michail Antonio beginning to show his age, it was left
 #### Predicted Finish: 11th
 I am backing West Ham to bounce back from a poor season and return to mid-table. Their squad is too talented not to, and they will be riding high after their Conference League success. Plus, with the funds from the Rice transfer, they will be more than able to restock in January should they need to.
 
-### Wounded Wolves
+### Wounded Wolves - Wolverhampton Wanderers
 Perhaps there is no team entering the season with more instability than Wolves. At Christmas last year, Wolves were bottom of the Premier League and heading for relegation. In came Julen Lopetegui, who turned it all around, eventually leading Wolves to 13th and a stress-free end to the season. Having also spent a lot of money in January to stay up, Wolves fans should have been reasonably optimistic heading into this season, even despite the loss of club captain Ruben Neves to Saudi Arabia. However, the whole club has been thrown into disarray with the news that Lopetegui has departed on the eve of the season, reportedly unhappy that Wolves did not spend any of the £70m obtained from the Neves and Nathan Collins transfers to bolster the squad. So in steps Gary O’Neil, Bournemouth’s saviour of yesteryear, to attempt to right the ship, a role he has clearly excelled at before, but it remains to be seen whether he can have the same effect on this reeling Wolves team.
 
 #### Player to Watch: Matheus Cunha
