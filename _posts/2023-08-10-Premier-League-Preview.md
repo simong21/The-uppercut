@@ -196,7 +196,7 @@ Wolves ownership are relying on their January transfers to keep the team afloat 
 Unfortunately, with the level of chaos at Wolves so close to the start of the season, I’m not loving their chances of avoiding relegation for a 6th straight season. Gary O’Neil has a proven track record in this department, but I see a poor start to the season putting Wolves in a hole they can’t climb out of.
 
 ### **Predicted Table**
-**1. Manchester City**  
+1. Manchester City
 2. Liverpool  
 3. Arsenal  
 4. Manchester United  
