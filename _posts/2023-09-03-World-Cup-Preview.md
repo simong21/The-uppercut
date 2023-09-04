@@ -3,7 +3,7 @@ layout: post
 title:  "The Uppercut's Rugby World Cup Preview"
 ---
 
-https://on.soundcloud.com/CACWL7jYp3Hgv51E6
+*Due to its length, you can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://on.soundcloud.com/CACWL7jYp3Hgv51E6)*
 
 *You can subscribe to the Uppercut by following @simoonssnaps on Instagram, or by sending me your email to receive new post notifications.*
 
