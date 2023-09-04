@@ -2,6 +2,9 @@
 layout: post
 title:  "The Uppercut's Rugby World Cup Preview"
 ---
+
+https://on.soundcloud.com/CACWL7jYp3Hgv51E6
+
 *You can subscribe to the Uppercut by following @simoonssnaps on Instagram, or by sending me your email to receive new post notifications.*
 
 Has it really only been 4 years? When Cheslin Kolbe danced around Owen Farrell to put the finishing touches on a 32-12 domination of England in Yokohama, securing South Africa’s record-equalling 3rd World Cup, the idea of being forced to stay indoors due to a dangerous, infectious plague was confined to the imaginations of Hollywood writers, and many thought that Donald Trump would facilitate a peaceful transfer of power should he lose the following year’s election. Well, maybe not that last one. But a lot has happened since then, including in the world of rugby, where power dynamics have ebbed and flowed, and the game has(thankfully) evolved from that brutal final in 2019 to one where pace and handling are king.
