@@ -3,6 +3,8 @@ layout: post
 title:  "The Uppercut - All Hail Fiji!"
 ---
 
+*You can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://on.soundcloud.com/fGBAXzbG7houGrBV9)*
+
 *You can subscribe to the Uppercut by following @simoonssnaps on Instagram, or emailing @theuppercutblog@gmail.com to receive new post notifications.*
 
 Welcome back to the Uppercut! It’s a slightly condensed edition this week as its a busy time in my side gig at the moment, but you’ll still find all you need to know about the return of the Premier League, an entertaining weekend in Formula 1, and of course, the 2nd round of games at the Rugby World Cup. Enjoy!
