@@ -2,7 +2,7 @@
 layout: post
 title:  "The Uppercut - A Game for the Ages"
 ---
-*You can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://on.soundcloud.com/fGBAXzbG7houGrBV9)*
+*You can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://on.soundcloud.com/PkojBna5rWuM2RL6A)*
 
 *You can subscribe to the Uppercut by following @simoonssnaps on Instagram, or emailing @theuppercutblog@gmail.com to receive new post notifications.*
 
