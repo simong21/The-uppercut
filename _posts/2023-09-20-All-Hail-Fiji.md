@@ -3,7 +3,7 @@ layout: post
 title:  "The Uppercut - All Hail Fiji!"
 ---
 
-*You can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://on.soundcloud.com/fGBAXzbG7houGrBV9)*
+*You can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://on.soundcloud.com/9RDPybf14LTKgQQEA)*
 
 *You can subscribe to the Uppercut by following @simoonssnaps on Instagram, or emailing @theuppercutblog@gmail.com to receive new post notifications.*
 
