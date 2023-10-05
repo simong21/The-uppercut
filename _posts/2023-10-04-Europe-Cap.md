@@ -2,7 +2,7 @@
 layout: post
 title:  "The Uppercut - Hats Off to the Europeans"
 ---
-*You can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://on.soundcloud.com/PkojBna5rWuM2RL6A)*
+*You can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://on.soundcloud.com/9RDPybf14LTKgQQEA)*
 
 *You can subscribe to the Uppercut by following @simoonssnaps on Instagram, or emailing @theuppercutblog@gmail.com to receive new post notifications.*
 
