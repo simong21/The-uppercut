@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Uppercut - Europe Cap Off a Roman Weekend"
+title:  "The Uppercut - Hats Off to the Europeans"
 ---
 *You can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://on.soundcloud.com/PkojBna5rWuM2RL6A)*
 
