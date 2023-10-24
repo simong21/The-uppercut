@@ -2,7 +2,7 @@
 layout: post
 title:  "The Uppercut - And Then There Were Two"
 ---
-*You can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://on.soundcloud.com/tU8u3arXCr1iLay67)*
+*You can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://on.soundcloud.com/vH8EUT4XbXBVPWzk9)*
 
 *You can subscribe to the Uppercut by following @simoonssnaps on Instagram, or emailing @theuppercutblog@gmail.com to receive new post notifications.*
 
