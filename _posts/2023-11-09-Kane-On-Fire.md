@@ -2,7 +2,7 @@
 layout: post
 title:  "The Uppercut - Kane on Fire in Germany"
 ---
-*You can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://soundcloud.app.goo.gl/dY3WwTXc4VGG457g9)*
+*You can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://on.soundcloud.com/jzFG1TaKRntrWh1Q7)*
 
 *You can subscribe to the Uppercut by following @simoonssnaps on Instagram, or emailing @theuppercutblog@gmail.com to receive new post notifications.*
 
