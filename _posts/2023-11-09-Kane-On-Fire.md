@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Uppercut - A Fitting Finale"
+title:  "The Uppercut - Kane on Fire in Germany"
 ---
 *You can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://soundcloud.app.goo.gl/dY3WwTXc4VGG457g9)*
 
