@@ -10,19 +10,19 @@ Welcome back to the Uppercut! It’s back after a brief hiatus while I was on my
 
 **Don’t want to read, but want to be able to impress the sports fan in your life? Use these talking points and sit back!**
 
-*‘City have looked bad at the back, but I expect Guardiola to figure it out by January’*  
+*"City have looked bad at the back, but I expect Guardiola to figure it out by January"*  
 
-*‘Sure, Arsenal are top of the table, but we all know what happened last season’*  
+*"Sure, Arsenal are top of the table, but we all know what happened last season"*  
 
-*‘Liverpool should move Trent(Alexander-Arnold) to midfield permanently!’*  
+*"Liverpool should move Trent(Alexander-Arnold) to midfield permanently!"*  
 
-*‘See Tiger Woods is back? He couldn’t win another Major, could he?’*  
+*"See Tiger Woods is back? He couldn’t win another Major, could he?"*  
 
-*‘They’ve had to decrease the distance of golf balls to stop me from dominating’(sure to be met by boos and eye-rolls. Maybe more of a conversation ender?)*  
+*"They’ve had to decrease the distance of golf balls to stop me from dominating"(sure to be met by boos and eye-rolls. Maybe more of a conversation ender?)*  
 
-*‘Frawley or not Frawley? That is the question.’*  
+*"Frawley or not Frawley? That is the question."*  
 
-*‘It kills me to say it, but don’t sleep on Munster come the business end of the Champions Cup’(expect rage if speaking to a Leinster fan)*  
+*"It kills me to say it, but don’t sleep on Munster come the business end of the Champions Cup"(expect rage if speaking to a Leinster fan)*  
 
 ## Goals Galore
 A thrilling weekend of Premier League football saw 38 goals scored across the 10 fixtures as Arsenal extended their lead at the top ever so slightly. They faced Wolves on Saturday afternoon at the Emirates, and secured the 3 points with a 2-1 win that was far more comfortable than the score line suggests. It follows a familiar pattern for the Gunners this season, who have built off their breakthrough campaign last year by consistently winning games while not quite hitting the spectacular form they showed at times last year. In my opinion, this should give Arsenal fans hope that they are better suited to challenge Manchester City over a full season, as Mikel Arteta has been able to tinker with his formations and playing style without dropping points. As I write this, Declan Rice has just headed Arsenal to a 4-3 win away at Luton in the 96th minute, as if to hammer home the point!
