@@ -1,16 +1,30 @@
-Welcome back to the Uppercut! It’s back after a brief hiatus while I was on my holidays, but stay tuned for the biggest news from the sports world as we approach Christmas. This week, I’ll be discussing an unusual amount of activity in the golfing space for this time of year, and check in on life after the Rugby World Cup(yes, it exists). But first, a look back at a scintillating round of games in the Premier League.
+---
+layout: post
+title:  "The Uppercut - Colder Weather, Hotter Competition"
+---
+*You can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://on.soundcloud.com/jzFG1TaKRntrWh1Q7)*
 
-Don’t want to read, but want to be able to impress the sports fan in your life? Use these talking points and sit back!
+*You can subscribe to the Uppercut by following @simoonssnaps on Instagram, or emailing @theuppercutblog@gmail.com to receive new post notifications.*
 
-‘City have looked bad at the back, but I expect Guardiola to figure it out by January’
-‘Sure, Arsenal are top of the table, but we all know what happened last season’
-‘Liverpool should move Trent(Alexander-Arnold) to midfield permanently!’
-‘See Tiger Woods is back? He couldn’t win another Major, could he?’
-‘They’ve had to decrease the distance of golf balls to stop me from dominating’(sure to be met by boos and eye-rolls. Maybe more of a conversation ender?)
-‘Frawley or not Frawley? That is the question.’
-‘It kills me to say it, but don’t sleep on Munster come the business end of the Champions Cup’(expect rage if speaking to a Leinster fan)
+Welcome back to the Uppercut! It’s back after a brief hiatus while I was on my holidays, but stay tuned for the biggest news from the sports world as we approach Christmas. This week, I’ll be discussing an unusual amount of activity in the golfing space for this time of year, and check in on life after the Rugby World Cup(yes, it goes on). But first, a look back at a scintillating round of games in the Premier League.
 
-Goals Galore
+**Don’t want to read, but want to be able to impress the sports fan in your life? Use these talking points and sit back!**
+
+*‘City have looked bad at the back, but I expect Guardiola to figure it out by January’*  
+
+*‘Sure, Arsenal are top of the table, but we all know what happened last season’*  
+
+*‘Liverpool should move Trent(Alexander-Arnold) to midfield permanently!’*  
+
+*‘See Tiger Woods is back? He couldn’t win another Major, could he?’*  
+
+*‘They’ve had to decrease the distance of golf balls to stop me from dominating’(sure to be met by boos and eye-rolls. Maybe more of a conversation ender?)*  
+
+*‘Frawley or not Frawley? That is the question.’*  
+
+*‘It kills me to say it, but don’t sleep on Munster come the business end of the Champions Cup’(expect rage if speaking to a Leinster fan)*  
+
+## Goals Galore
 A thrilling weekend of Premier League football saw 38 goals scored across the 10 fixtures as Arsenal extended their lead at the top ever so slightly. They faced Wolves on Saturday afternoon at the Emirates, and secured the 3 points with a 2-1 win that was far more comfortable than the score line suggests. It follows a familiar pattern for the Gunners this season, who have built off their breakthrough campaign last year by consistently winning games while not quite hitting the spectacular form they showed at times last year. In my opinion, this should give Arsenal fans hope that they are better suited to challenge Manchester City over a full season, as Mikel Arteta has been able to tinker with his formations and playing style without dropping points. As I write this, Declan Rice has just headed Arsenal to a 4-3 win away at Luton in the 96th minute, as if to hammer home the point!
 
 Saturday evening brought together two clubs hoping for retribution following blown leads in the Champions League mid-week, as Newcastle welcomed Manchester United to St. James’ Park. Anthony Gordon, who has shown excellent form of late, scored the lone goal to hand the Magpies 3 points, but the difference between the sides was stark. Newcastle’s form has varied at points this season, but they have always looked well-coached and stayed in games. United on the other hand, produce moments of brilliance before inevitably looking lost again. Erik Ten Hag has had 16 months at the helm, but I’m not sure I have seen much improvement. Injuries have most certainly played their part, and I believe a mid-season coaching change is unlikely, but there is no doubt that he is feeling the heat.
@@ -19,12 +33,12 @@ United’s partner-in-crime when it comes to spending vast quantities for very l
 
 The pick of the bunch came in the last game of the weekend, as Manchester City took on Tottenham at the Etihad Stadium. Continuing the goal-scoring theme of Sunday’s games in particular, the sides went back and forth, and Dewan Kulusevski’s 90th minute header saw the spoils shared at 3-3. There was more refereeing controversy in stoppage time as Simon Hooper initially played advantage for a foul on City’s Erling Haaland, only to blow his whistle for a free-kick as Jack Grealish appeared to be through on goal, denying him the chance to win the game for his club. Haaland took to X/Twitter after the game to express his disgust with the decision, a move sure to cop a fine from the FA. More of a worry for Pep Guardiola will be his side’s inability to secure 3 points from winning positions against other top clubs. They have drawn their last 3 games against Spurs, Liverpool and Chelsea, and have shown serious defensive frailties in the process. Without club stalwarts like Kevin de Bruyne and John Stones, both injured, there appears to be a lack of control when they are usually untouchable when playing in the lead. However, in all their league-winning seasons there has usually been a down period before Guardiola figures it out, so there should be no one expecting the win-drought to continue for long.
 
-Dimple Maths
+## Dimple Maths
 There isn’t often much news from the world of golf around this time of year, but the cold weather can’t stop riveting arguments over equipment regulations. Golf’s governing bodies are looking to pass a proposal to reduce the distance golf balls travel by around 15 yards, in an attempt to help shorter golf courses maintain their viability. The distances professionals have been able to drive the ball has increased greatly throughout the years, driven in large part by advances in golf ball technology, and has led to many courses, often of the older variety, being unable to present the same challenge as they used to. Similar proposals have been made in the past, but have met fierce resistance from some professionals and golf equipment manufacturers. Despite opposition from the PGA Tour, the R&A and USGA look set to press ahead, meaning competitions like the The Open and the US Open would have to feature these ‘new’, shorter balls. One of the major arguments against such regulations has been bifurcation, which refers to tour professionals playing with different equipment to your Average Joe golfer, as the new rules would apply only to balls used in professional competitions. However, Rory McIlroy took to X/Twitter(that is really annoying) to voice his support for the proposal and stated: “You think we play the same stuff you do?”.
 
 It was against this backdrop that 20 of the top golfers in the world descended on the Bahamas for the Hero World Challenge. World number 1 Scottie Scheffler claimed a 3-shot win from Austrian Sepp Straka, but the headlines were dominated by the return to competitive golf of one Tiger Woods. Woods, who hosts the tournament, had not played since withdrawing from the Masters earlier this year and undergoing ankle surgery. Following his recovery, he has stated that he plans to play one event a month in an attempt to manage his workload. His return got off to a less-than-ideal start as he carded a +3 first round. However, he recovered to finish the event even par, ahead of US Open winner Wyndham Clark. While there were several top players missing from the event, one who was particularly conspicuous in his absence was Jon Rahm, who is rumoured to be considering a $600m(!) deal to join the Saudi-backed LIV Tour. Rahm, Ryder Cup hero and regarded as one of golf’s ‘good guys’, would be a huge coup for the LIV Tour, who are currently engaged in talks with the PGA Tour to complete a merger of sorts. The deadline for those talks is December 31st, and with no agreement in sight, this story is far from over.
 
-Back to the Day Job
+## Back to the Day Job
 Following the disappointment(or joy, depending on where you’re from) of the World Cup, you could be excused for not paying much attention to the lesser-stakes arena of club rugby. If that were the case however, you have been missing out on what has been a cracking start to this season’s United Rugby Championship. With many of the top teams only beginning to return their star players from World Cup duty, we have been treated to upsets and tight games that may otherwise have been over by half-time. Zebre turned over the Sharks for their first win in 18 months, while Edinburgh went up to Belfast and walked away with a win. Other than that, the games have generally been of a higher standard, no doubt an effect of the South African teams joining the league a few seasons back. One thing that has become clear is that Leinster can no longer field a 3rd-string team against the minnows and expect to walk away with a bonus point win. They opened the season with a loss away to Glasgow, and this weekend just gone were incredibly lucky to escape Galway with a win over provincial rivals Connacht. There are major questions at 10 after Johnny Sexton’s retirement was compounded by Ross Byrne tearing his biceps, leaving Ciarán Frawley and Byrne’s brother Harry to compete for the starting gig. The frontrunner will be revealed this weekend as the European Champions Cup returns, with Leinster given a brutal first assignment away to their bogey team, back-to-back winner La Rochelle. Ronan O’Gara’s side have not been in flying form themselves, but it will be a tall task for Leinster to overturn the champions in their own backyard, especially given the mental baggage they are sure to carry into the clash.
 
 Munster have pushed on from their URC triumph last year and have been playing some excellent rugby, adding a new attacking dimension to their already-solid game. Rising stars like Tom Ahern, John Hodnett and Edwin Edogbo have added energy to their pack, while Craig Casey and Jack Crowley have clearly benefited from their time in the Irish camp. By virtue of their league win, they have a far nicer draw in the Champions Cup than Leinster, and should be expected to romp home against an under strength Bayonne side this weekend. A trip to Exeter the following weekend will be a good acid test for how good they truly are.
@@ -33,9 +47,9 @@ Connacht appear to have overtaken Ulster in the pecking order of Irish provinces
 
 That’s all for this week folks! Thanks for reading or listening, and as always, feel free to get in touch at theuppercutblog@gmail.com. See you next week!
 
-Proposals for less distance
-Have been met with some resistance
-Pep’s side out of form?
-This is really not the norm
-Will Frawley be rewarded for his persistence 
+*Proposals for less distance*  
+*Have been met with some resistance*  
+*Pep’s side out of form?*  
+*This is really not the norm*  
+*Will Frawley be rewarded for his persistence?*  
 
