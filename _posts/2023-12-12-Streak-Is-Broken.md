@@ -2,7 +2,7 @@
 layout: post
 title:  "The Uppercut - A Streak is Broken"
 ---
-*You can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://on.soundcloud.com/jHieAGnaf5CEPY1w8)*
+*You can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://on.soundcloud.com/suMnBN8YPp31WoQH6)*
 
 *You can subscribe to the Uppercut by following @simoonssnaps on Instagram, or emailing @theuppercutblog@gmail.com to receive new post notifications.*
 
