@@ -9,6 +9,7 @@ title:  "The Uppercut - A Streak is Broken"
 Hello and welcome back to the Uppercut. With Christmas approaching, a lot of sports have entered their offseasons, but there is still plenty to get stuck into. I may revisit the weekend’s Premier League matches if I get the time, but for now, I’ll be looking at a rising star in the swimming world, the latest from the NFL and NBA across the Atlantic, and first off, the opening round of the rugby Champions Cup.
 
 **Here's some talking points to stay engaged at your Christmas party...**
+
 *"So, are Aston Villa really title contenders?"*  
 
 *"Great that Leinster got the win, but they need to prove it in the knockout stages"*  
