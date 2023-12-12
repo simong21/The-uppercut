@@ -50,9 +50,9 @@ Tempers boiled over after a Turkish first division football match between MKE An
 
 That's all for this week folks, thanks for reading! As always, feel free to get in touch at theuppercutblog@gmail.com. See you next week!
 
-*Wiffen wins gold times three*
-*While Frawley sets Leinster free*
-*Mahomes is pissed*
-*At a call that wasn't missed*
-*Oh who would be a referee?*
+*Wiffen wins gold times three*  
+*While Frawley sets Leinster free*  
+*Mahomes is pissed*  
+*At a call that wasn't missed*  
+*Oh who would be a referee?*  
 
