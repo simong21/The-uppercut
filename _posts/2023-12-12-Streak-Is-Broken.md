@@ -1,7 +1,28 @@
+---
+layout: post
+title:  "The Uppercut - A Streak is Broken"
+---
+*You can also listen to an audio version of this article on Souncloud! [Click here to listen!](https://on.soundcloud.com/jHieAGnaf5CEPY1w8)*
+
+*You can subscribe to the Uppercut by following @simoonssnaps on Instagram, or emailing @theuppercutblog@gmail.com to receive new post notifications.*
+
 Hello and welcome back to the Uppercut. With Christmas approaching, a lot of sports have entered their offseasons, but there is still plenty to get stuck into. I may revisit the weekend’s Premier League matches if I get the time, but for now, I’ll be looking at a rising star in the swimming world, the latest from the NFL and NBA across the Atlantic, and first off, the opening round of the rugby Champions Cup.
 
-Jacques in the Box
-The perpetually-changing pool stage format of the European Champions Cup has left a sour taste in many fans’ mouths, as the old 4-team pools structure with home and away fixtures against each side has given way to 6-team pools, with 2 teams from each of the 3 major leagues, where you play every team in the pool once except that which is in your league, and… probably better not to think about it, and just enjoy the rugby. Because, on this opening weekend, it did not disappoint. We were treated to grudge matches, last-gasp kicks and a whole heap of tries, and perhaps most importantly, it felt like it mattered. While always considered the Holy Grail of club rugby in Ireland, the tournament had been diminished somewhat by a seeming lack of interest in England and France(outside of a handful of teams), who would often, either explicitly or implicitly by fielding 2nd-string teams, declare that their focus was on their domestic results. But this weekend, every team seemed to give their all, fighting tooth-and-nail for the win both home and away, celebrating small gains with passion and intensity, and the product was all the better for it.
+**Here's some talking points to stay engaged at your Christmas party...**
+*"So, are Aston Villa really title contenders?"*  
+
+*"Great that Leinster got the win, but they need to prove it in the knockout stages"*  
+
+*"Chelsea are a laughing stock. Serves them right for spending all that cash!"(likely to go down well with everyone except Chelsea supporters)*  
+
+*"Munster have been solid this season, but they need to tighten up their set-piece if they want to compete at the top"*  
+
+*"Arsenal were robbed! VAR is a disgrace!"(Perfect for the Arsenal fan in your life)*
+
+*"Daniel Wiffen looks like a great talent. Hopefully he's not picking up any tips from Michelle Smith"*  
+
+## Jacques in the Box
+The perpetually-changing pool stage format of the European Champions Cup has left a sour taste in many fans’ mouths, as the old 4-team pools structure with home and away fixtures against each side has given way to 6-team pools, with 2 teams from each of the 3 major leagues, where you play every team in the pool once except that which is in your league, and… probably better not to think about it, and just enjoy the rugby. Because, on this opening weekend, it did not disappoint. We were treated to grudge matches, last-gasp kicks and a whole heap of tries, and perhaps most importantly, it felt like it *mattered*. While always considered the Holy Grail of club rugby in Ireland, the tournament had been diminished somewhat by a seeming lack of interest in England and France(outside of a handful of teams), who would often, either explicitly or implicitly by fielding 2nd-string teams, declare that their focus was on their domestic results. But this weekend, every team seemed to give their all, fighting tooth-and-nail for the win both home and away, celebrating small gains with passion and intensity, and the product was all the better for it.
 
 Leinster had the unenviable task of travelling to France’s east coast to face the defending champions, La Rochelle, the team who had ended their participation in this tournament 3 years running. There is no love lost between these teams, and the torrential downpour that carried on well into the game ensured this would be a gritty, ball-up-the-jumper type of encounter. Leinster had raised eyebrows with some of their selection decisions, as Will Connors, chop-tackle extraordinaire, got the nod ahead of 2022 World Player of the Year Josh van der Flier, in what looked like Jacques Nienaber’s first major influence. The selection was vindicated as Connors got to work scything down the Australian behemoth, Will Skelton, as both sides embraced the physical nature of the clash. Tempers flared early, and a huge fracas broke out as Leinster were awarded a penalty while camped on the La Rochelle line. La Rochelle’s Jonathan Danty and Leinster’s Joe McCarthy were sent to the naughty step for 10 minutes for their part in escalating tensions, before Leinster defied the conditions with some excellent handling to send Jordan Larmour scampering over for what would be the game’s only try. 
 
@@ -11,11 +32,26 @@ Predictably, the champions came out firing in the second-half, as they looked to
 
 The other Irish provinces did not fare as well. Connacht were handily beaten at home by Bordeaux Bégles by a score of 41-5 that said more about how woeful Connacht were than their opponents were excellent. Ulster went slightly better away to Bath, taking a 14-8 lead into half-time. Unfortunately they couldn’t keep it up, and Bath ran away with it in the final 15 minutes to emerge comfortable 37-14 victors. If results do not improve rapidly for the Belfast-based club, starting with a home tie against Racing 92 next week, Dan McFarland may be shown the exit come the end of the season. Munster took on Bayonne in front of a sold-out Thomond Park on Saturday evening, but were perhaps guilty of having one eye on their trip to Exeter next weekend. They made a nervy start before regaining their composure, running in two well-worked tries through youngster Shay McCarthy and Gavin Coombes to restore their confidence, and they could have led by more than 14-3 at the break. But with the wind at their backs, their composure deserted them, and Bayonne replacement Luke Tati crashed over to narrow the deficit to 14-10. Crowley extended the gap to 7 with another penalty, but the Bayonne pressure continued to build. 5 minutes from time, Bayonne found a deep touch off a penalty kick, and worked the ball well to create space for Rémy Baget to dive over, out-half Dolhagaray adding the difficult conversion to even the scores. There was time for a Crowley drop-kick, but with no Bayonne chasers in front of him he pushed it wide, much to his and the crowd’s disappointment.
 
-Overtime
-Making Waves
+## Overtime
+### Making Waves
 If you don’t know the name Daniel Wiffen yet, you will. The 22-year old from Co. Down over the weekend became the first Irish swimmer to break a world record, choosing Australian Grant Hackett’s 15-year old 800m freestyle short-course record as his victim. Until that point, the Hackett’s time was the longest standing world record in swimming, but Wiffen knocked almost 3 seconds off as he claimed gold, a medal which he would also win in the 400m and 1,500m events. Thoughts will now turn to the Olympics, where he can become the first Irish person since *cough* Michelle Smith to win an Olympic medal in the pool. It is important to note, however, that a short-course pool is 25m long, whereas an Olympic pool is 50m, so it will be interesting to see how Wiffen fares in the longer edition. More time is spent underwater(the faster portion of the swim) in a 25m pool than a 50m pool as there are more turns and, in turn, more push-offs. Either way, with Rhasidat Adeleke‘s emergence on the track, coupled with our rowing and boxing prowess, Paris 2024 could be an Olympics to remember.
 
-Bad Blood
+### Bad Blood
 Patrick Mahomes’ Kansas City Chiefs continue to struggle through the NFL season, as they fell at home on Sunday to the Buffalo Bills in a rematch of their epic 2022 playoff in which Mahomes broke Bills hearts. This game had none of that offensive explosion as the Chiefs have struggled to move the ball with consistency, but Mahomes went on an expletive-laden tirade against the referees, who correctly overturned a would-be winning touchdown for the Chiefs due to a player being offside. His fury continued to his post-match handshake with Bills quarterback Josh Allen in what was not a good look for the 2-time MVP. The Chiefs loss leaves the AFC wide open, with Lamar Jackson’s Baltimore Ravens appearing to be the most complete team in the conference.
 
 In the NFC, the Philadelphia Eagles went from having the best record in the NFL to the 5th-seed in the playoffs after being thumped by their two closest rivals, the San Francisco 49ers and the Dallas Cowboys. The 49ers have recovered from a poor stretch in the middle of the season to now look the best team in the NFL, while the Dallas Cowboys, so often the definition of unfulfilled talent, look to be a different beast this year. With 4 weeks to go in the regular season, it is vital to be playing your best football now, and the Eagles slump has come at the worst time.
+
+### Turkish De-Fight
+Tempers boiled over after a Turkish first division football match between MKE Ankaragucu and Caykur Rizespor on Monday, with Ankaragucu club president Faruk Koca physically assaulting referee Halil Umut Meler after his side conceded a 97th-minute equaliser. Meler, a member of UEFA's elite referee list, was taken to hospital with his injuries, which included a minor facial fracture and a bleed in his eye. Koca was also hopitalised before being arrested by authorities. The incident has prompted widespread condemnation, and all games across the Turkish league have been suspended for the time being. It comes during a time when referees are seeing escalating abuse at all levels of the game, and across different sports, no doubt fueled by the increased scrutiny brought about by social media. With any luck, this despicable act will be the catalyst for change, as without referees, we have no game.
+
+### The King Back on Top
+38-year old Lebron James' Los Angeles Lakers claimed the NBA's inaugural in-season tournament, defeating the Indiana Pacers 123-109 as teammate Anthony Davis scored 41 points. The NBA Cup is a new addition to the NBA season, in an attempt to make the 82-game regular season more interesting for fans. I think it has been a success, and the fact that the players really wanted to win suggests it will be continued next season. The tournament involves a group stage followed by knockouts, with every game except the final counting towards a team's final record for the season. Currently, the Boston Cletics lead the Eastern Conference with a 16-5 record, while the Minnesota Timberwolves are a surprise leader of the Western Conference at 17-5.
+
+That's all for this week folks, thanks for reading! As always, feel free to get in touch at theuppercutblog@gmail.com. See you next week!
+
+*Wiffen wins gold times three*
+*While Frawley sets Leinster free*
+*Mahomes is pissed*
+*At a call that wasn't missed*
+*Oh who would be a referee?*
+
